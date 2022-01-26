@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/ansible/ansible-modules-core.svg?branch=devel)](https://travis-ci.org/ansible/ansible-modules-core)
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/0a04a89a-4f58-4d32-baca-2156ece21af1.svg?orgId=762678537011)](https://app.soluble.cloud/repos/details/github.com/ryhennessy/ansible-modules-core?orgId=762678537011)  
+
 ansible-modules-core
 ====================
 
